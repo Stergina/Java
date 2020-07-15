@@ -2,10 +2,7 @@
 
 
 **Objective**:  
-Implementing a shell that imitates the Linux shell. More specifically, the program is capable of repeating the following steps:  
-1. prompt
-2. command line reading from the terminal and 
-3. creating appropriate processes to execute the command line<br/><br/>
+This program simulates the purchasing and ordering system of a computer store using a GUI.
 
 
 **Structure of the code**:
