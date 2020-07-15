@@ -2,12 +2,8 @@
 
 
 **Objective**:  
-This program simulates the purchasing and ordering system of a computer store using a GUI.
+This program simulates the ordering and purchasing system of a computer store via a GUI.
 
 
 **Structure of the code**:
-* auebsh1: This shell accepts simple individual commands. Specifically: a) it displays its name and the character ">" as a prompt, b) it reads the name of a program from the terminal, c) it creates a new process to execute the program which is read and d) it waits for the new process to end. Once the new process is terminated, shell will read and execute the next command.
-* auebsh2: This shell extends shell auebsh1 but also accepts redirect to standard I/O from and to files for the commands it executes.
-* auebsh3: This shell extends shell auebsh2 but also accepts parameters for the commands it executes.
-* auebsh4: This shell extends shell auebsh3 but also executes command sequences with a single pipeline.
-* auebsh5: This shell extends shell auebsh4 but also executes command sequences without limiting the number of pipelines.
+The program includes multiple classes that correspond to products selling in a computer shop. More specifically, we initially construct the Product class which corresponds to the availble products in the store. Computer store products are divided into two categories: a) Computer compartments and b) Peripherals. Based on the fact that price discounts are common within each category, we create two subclasses of the Product class: a) the HardWare class and b) the Peripherals class. Those classes are also divided into distinct products under each category. 
