@@ -1,0 +1,158 @@
+OrdersList
+{	
+	Order
+	{		
+		OrderCode 101
+		ProductType Keyboard
+		OrderedPro MK120
+		CustomerName Petros Theodorou
+		CustomerPhone 2103694364
+		OrderDate 27 April 2018
+		ArrivalDate 4 May 2018
+		OrderStatus Pending
+		FinalPrice 17.99
+	}
+	
+	Order
+	{	
+		OrderCode 102
+		ProductType CPU
+		OrderedPro i5-7400
+		CustomerName Eleni Zaxaropoulou
+		CustomerPhone 2105193483
+		OrderDate 27 April 2018
+		ArrivalDate 7 May 2018
+		OrderStatus Pending
+		FinalPrice 149.99
+	}
+	
+	Order
+	{		
+		OrderCode 103
+		ProductType Printer
+		OrderedPro SL-M2026
+		CustomerName Iasonas Papapetrou
+		CustomerPhone 2104293659
+		OrderDate 30 April 2018
+		ArrivalDate 7 May 2018
+		OrderStatus Pending
+		FinalPrice 53.10
+	}
+		
+	Order
+	{		
+		OrderCode 104
+		ProductType Graphics Card
+		OrderedPro GT 730
+		CustomerName Kostas Paulou
+		CustomerPhone 2104369963
+		OrderDate 30 April 2018
+		ArrivalDate 8 May 2018
+		OrderStatus Pending
+		FinalPrice 66.76
+	}
+	
+	Order
+	{		
+		OrderCode 105
+		ProductType Printer
+		OrderedPro SL-M2026
+		CustomerName Marianna Xatzitheodorou
+		CustomerPhone 2105291247
+		OrderDate 2 May 2018
+		ArrivalDate 8 May 2018
+		OrderStatus Pending
+		FinalPrice 53.10
+	}
+
+	Order
+	{		
+		OrderCode 106
+		ProductType CPU
+		OrderedPro i7-6700K
+		CustomerName Spuros Spiliotopoulos
+		CustomerPhone 2109136482
+		OrderDate 2 May 2018
+		ArrivalDate 9 May 2018
+		OrderStatus Pending
+		FinalPrice 291.75
+	}
+	
+	Order
+	{		
+		OrderCode 107
+		ProductType Mouse
+		OrderedPro Kiro
+		CustomerName Lydia Ioannou
+		CustomerPhone 2103294681
+		OrderDate 3 May 2018
+		ArrivalDate 9 May 2018
+		OrderStatus Pending
+		FinalPrice 35.99
+	}
+
+	Order
+	{		
+		OrderCode 108
+		ProductType Hard Disk
+		OrderedPro MZ-75E250B
+		CustomerName Giorgos Melopoulos
+		CustomerPhone 2104269135
+		OrderDate 3 May 2018
+		ArrivalDate 10 May 2018
+		OrderStatus Pending
+		FinalPrice 62.18
+	}
+
+	Order
+	{		
+		OrderCode 109
+		ProductType Monitor
+		OrderedPro 223V5LHSB
+		CustomerName Katerina Galanopoulou
+		CustomerPhone 2106491349
+		OrderDate 4 May 2018
+		ArrivalDate 10 May 2018
+		OrderStatus Pending
+		FinalPrice 116.10
+	}
+
+	Order
+	{		
+		OrderCode 110
+		ProductType Motherboard
+		OrderedPro B250M-DS3H
+		CustomerName Thanasis Kostopoulos
+		CustomerPhone 2103194257
+		OrderDate 4 May 2018
+		ArrivalDate 11 May 2018
+		OrderStatus Pending
+		FinalPrice 47.1
+	}
+
+	Order
+	{		
+		OrderCode 111
+		ProductType CPU
+		OrderedPro i5-7400
+		CustomerName Gianna Poluzou
+		CustomerPhone 2109342618
+		OrderDate 7 April 2018
+		ArrivalDate 11 May 2018
+		OrderStatus Pending
+		FinalPrice 149.99
+	}
+
+	Order
+	{		
+		OrderCode 112
+		ProductType RAM
+		OrderedPro GR800S264L6/2G
+		CustomerName Sofia Vellopoulou
+		CustomerPhone 2106153482
+		OrderDate 7 May 2018
+		ArrivalDate 10 May 2018
+		OrderStatus Pending
+		FinalPrice 22.43
+	}
+}
