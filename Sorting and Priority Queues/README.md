@@ -1,3 +1,3 @@
-# Queues - Implementations of ADT and applications
+# Sorting and Priority Queues in Java
 
 **Objective**:  
