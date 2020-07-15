@@ -2,7 +2,7 @@
 
 
 **Objective**:  
-This program simulates the ordering and purchasing system of a computer store via a GUI and by reading structured files regarding sales, orders and purchases.
+This program simulates the ordering and purchasing system of a computer store via a GUI and by reading structured files regarding sales, orders and products.
 
 
 **Structure of the code**:
