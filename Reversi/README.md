@@ -1,4 +1,4 @@
-# Reversi
+# Reversi in Java
 
 
 **Objective**:  
