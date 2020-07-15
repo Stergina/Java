@@ -1,4 +1,4 @@
-# Reversi in Java
+# Binary Search Trees in Java
 
 
 **Objective**:  
