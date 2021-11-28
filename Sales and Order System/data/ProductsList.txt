@@ -1,0 +1,228 @@
+ProductsList
+{	
+	Product	
+	{
+		ProductType Motherboard
+		ProductName B250M-DS3H
+		ModelYear 2017
+		Manufacturer Gigabyte
+		ProductPrice 62.8
+		MBmemory 32
+		MBports 6 
+		CPUtype Intel
+		Pieces 3
+	}
+
+	Product	
+	{
+		ProductType Motherboard
+		ProductName AMD X370
+		ModelYear 2018
+		Manufacturer ASUS 
+		ProductPrice 220.52
+		MBmemory 128 
+		MBports 8
+		CPUtype AMD
+		Pieces 1
+	}
+
+	Product	
+	{		
+		ProductType CPU
+		ProductName i7-6700K
+		ModelYear 2017
+		Manufacturer Intel 
+		ProductPrice 389
+		CPUspeed 4
+		CPUcores 6
+		CPUgraph Embedded Graphics
+		Pieces 3
+	}
+
+	Product	
+	{		
+		ProductType CPU
+		ProductName i5-7400
+		ModelYear 2018
+		Manufacturer AMD
+		ProductPrice 199.99
+		CPUspeed 3.6
+		CPUcores 8
+		CPUgraph Non Embedded Graphics
+		Pieces 2
+	}
+
+	Product	
+	{		
+		ProductType RAM
+		ProductName GR800S264L6/2G
+		ModelYear 2016
+		Manufacturer Goodram
+		ProductPrice 29.90
+		RAMtype DDR3
+		RAMsize 8
+		RAMfreq 1600
+		Pieces 4
+	}
+				
+	Product	
+	{		
+		ProductType RAM
+		ProductName Ballistix Sport LT Red
+		ModelYear 2018
+		Manufacturer Crucial
+		ProductPrice 54.99
+		RAMtype DDR4
+		RAMsize 4
+		RAMfreq 4600
+		Pieces 1
+	}
+
+	Product	
+	{		
+		ProductType Graphics Card
+		ProductName GT 730
+		ModelYear 2017
+		Manufacturer Gigabyte
+		ProductPrice 89.01
+		Chipset nVidia
+		GraphMemory 2
+		Pieces 1
+	}	
+	
+	Product	
+	{		
+		ProductType Graphics Card
+		ProductName R7240-2GD3-L
+		ModelYear 2018
+		Manufacturer ASUS
+		ProductPrice 68.99
+		Chipset AMD
+		GraphMemory 4
+		Pieces 3
+	}
+
+	Product	
+	{		
+		ProductType Hard Disk
+		ProductName WD10EZEX
+		ModelYear 2017
+		Manufacturer Western
+		ProductPrice 38.95
+		DiskType HDD
+		DiskSize 1.8
+		DiskCapacity 500
+		Pieces 3        
+	}	
+
+	Product	
+	{		
+		ProductType Hard Disk
+		ProductName MZ-75E250B
+		ModelYear 2018
+		Manufacturer Samsung
+		ProductPrice 82.90
+		DiskType SSD
+		DiskSize 3.5
+		DiskCapacity 1000
+		Pieces 1
+	}
+
+	Product
+	{		
+		ProductType Monitor
+		ProductName 223V5LHSB
+		ModelYear 2017
+		Manufacturer Philips
+		ProductPrice 129
+		MonTech	LED
+		MonSize 21.5
+		MonRes 1920x1080
+		MonPorts HDMI	
+		Pieces 4
+	}	
+	
+	Product	
+	{		
+		ProductType Monitor
+		ProductName 24GM79G-B
+		ModelYear 2018
+		Manufacturer LG
+		ProductPrice 369
+		MonTech	LCD
+		MonSize 24
+		MonRes 1920x1200
+		MonPorts Display Port
+		Pieces 3
+	}
+
+	Product	
+	{		
+		ProductType Keyboard
+		ProductName MK120
+		ModelYear 2016
+		Manufacturer Logitech
+		ProductPrice 19.99
+		KeyCon Wired
+		Pieces 3
+	}			
+	
+	Product	
+	{		
+		ProductType Keyboard
+		ProductName 7N9-00016
+		ModelYear 2018
+		Manufacturer Microsoft
+		ProductPrice 99.99
+		KeyCon Wireless
+		Pieces 2
+	}
+
+	Product	
+	{		
+		ProductType Mouse
+		ProductName Kiro
+		ModelYear 2017
+		Manufacturer Roccat
+		ProductPrice 39.99
+		MouseTech Laser
+		MouseCon Wired
+		Pieces 2
+	}
+		
+	Product	
+	{		
+		ProductType Mouse
+		ProductName 2000 Twilight
+		ModelYear 2017
+		Manufacturer Alcatroz
+		ProductPrice 19.99
+		MouseTech Optical
+		MouseCon Wireless
+		Pieces 1
+	}
+
+	Product	
+	{		
+		ProductType Printer
+		ProductName SL-M2026
+		ModelYear 2016
+		Manufacturer Samsung
+		ProductPrice 59.01
+		PrintTech Laser
+		PrintType BlacknWhite
+		Pieces 2
+	}
+
+	Product	
+	{
+		ProductType Printer
+		ProductName L310
+		ModelYear 2017
+		Manufacturer Epson
+		ProductPrice 149
+		PrintTech Inkjet
+		PrintType Colour
+		Pieces 3
+	}
+}
