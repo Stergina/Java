@@ -5,7 +5,10 @@ Implementing a program that uses Binary Search Trees in order to count the numbe
 
 **Implementation**:  
 The Word Counter program "loads" a text file and counts how many times each word is displayed. For example, if the file contains the following text
+<mj-text padding-top="0">
 - Hello, how are you?
+</mj-text>
+
 - Very well, thank you. How about you?
 - Fine, thank you.
 
