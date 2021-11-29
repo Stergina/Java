@@ -105,7 +105,7 @@ public class sparseArraysCreation
 		// Try block	
 		try {
 			// Creates a file reader
-			FileInputStream fstream = new FileInputStream("LISA_ALL.txt");
+			FileInputStream fstream = new FileInputStream("./data/LISA_ALL.txt");
 			DataInputStream in = new DataInputStream(fstream);
 			BufferedReader br = new BufferedReader(new InputStreamReader(in));
 
@@ -184,7 +184,7 @@ public class sparseArraysCreation
 		// Try block	
 		try{
 			// Creates a file reader
-			FileInputStream fstream = new FileInputStream("queries.txt");
+			FileInputStream fstream = new FileInputStream("./data/queries.txt");
 			DataInputStream in = new DataInputStream(fstream);
 			BufferedReader objReader = new BufferedReader(new InputStreamReader(in));
 
@@ -261,17 +261,17 @@ public class sparseArraysCreation
 	private static void sparseFreqArray(IndexReader reader) throws Exception 
 	{
 		// Creates a file and a buffer writer in order to store the terms of the index
-		FileWriter fwt = new FileWriter("terms.txt");
+		FileWriter fwt = new FileWriter("./data/terms.txt");
 		BufferedWriter bwt = new BufferedWriter(fwt);
 
 		// Creates a file and a buffer writer in order to store the frequency
 		// of terms by document
-		File docFile = new File("SparseArray.txt");
+		File docFile = new File("./data/SparseArray.txt");
 		BufferedWriter docBuf = new BufferedWriter(new FileWriter(docFile));
 
 		// Creates a file and a buffer writer in order to store the frequency
 		// of terms by query
-		File queryFile = new File("QueryArray.txt");
+		File queryFile = new File("./data/QueryArray.txt");
 		BufferedWriter queryBuf = new BufferedWriter(new FileWriter(queryFile));
 
 		// Number of terms in the lexicon after analysis of the Field "text"
