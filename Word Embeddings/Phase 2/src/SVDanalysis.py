@@ -4,7 +4,7 @@ from numpy.linalg import norm
 import os
 
 # Sets the working directory
-os.chdir('C:\\Users\\sterg\\eclipse-workspace\\phase2')
+os.chdir('C:\\data')
 
 # Imports Document x Term sparse array
 docxterm = np.loadtxt("SparseArray.txt")
