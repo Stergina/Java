@@ -206,7 +206,7 @@ public class word2Vec
 		// Try block	
 		try {
 			// Creates a file reader
-			FileInputStream fstream = new FileInputStream("LISA_ALL.txt");
+			FileInputStream fstream = new FileInputStream("./data/LISA_ALL.txt");
 			DataInputStream in = new DataInputStream(fstream);
 			BufferedReader br = new BufferedReader(new InputStreamReader(in));
 
@@ -290,7 +290,7 @@ public class word2Vec
 		// Try block	
 		try{
 			// Creates a file reader
-			FileInputStream fstream = new FileInputStream("queries.txt");
+			FileInputStream fstream = new FileInputStream("./data/queries.txt");
 			DataInputStream in = new DataInputStream(fstream);
 			BufferedReader objReader = new BufferedReader(new InputStreamReader(in));
 
