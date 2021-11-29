@@ -1,1 +1,6 @@
+# Word Embeddings
 
+**Objective**:  
+
+
+**Implementation**:                                                                              
